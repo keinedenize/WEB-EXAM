@@ -1,0 +1,33 @@
+.round{
+    width: 30%;
+    height: 10%;
+    border-radius: 200%;
+    display: block;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: normal;
+    color: #333;
+    background-color:darkkhaki;
+    padding: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+strong{
+    color: chocolate;
+}
+p{
+    color: black;
+    text-align: left;
+    padding: 10px;
+    margin-right: 2px;
+    margin-bottom: 5px;
+}
+.about{
+    color: black;
+    text-align: left;
+    margin-right: 5px;
+}

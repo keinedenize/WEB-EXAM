@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    font-family: Arial,sans-serif;
+    background-color:blanchedalmond;
+    color: burlywood;
+}
+header{
+    text-align: center;
+    background-color: darkslategray;
+    color: burlywood;
+    padding: 1.5 rem 0;
+}
+h2{
+    color: darkslategray;
+    border-bottom: 3px saddlebrown;
+}
+p{
+    color: black;
+}
+h3{
+    color: darkslategray;
+}
+li{
+    color: black;
+}
+.skills{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 40px 0;
+}
+.skills{
+    text-align: center;
+    margin: 10px;
+}
+
+.skill h4{
+    font-size: 1.2em;
+}
+footer{
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
